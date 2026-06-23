@@ -1,4 +1,4 @@
-git prone https://github.com/Pranitha-Ganji/Product_sales.git
+git clone https://github.com/Pranitha-Ganji/Product_sales.git
 
 cd Product_sales
 
